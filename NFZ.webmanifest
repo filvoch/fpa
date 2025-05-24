@@ -1,19 +1,20 @@
-
 {
-    "name": "NoFlyZone SA",
-    "short_name": "Painel NoFlyZone SA",
-    "start_url": "https://bungeltd.sharepoint.com/sites/NoFlyZone-SA/SitePages/NoFlyZone.aspx",  
+    "name": "NoFlyZone PWA",
+    "short_name": "NFZ",
+    "description": "Aplicativo de gestão de inspeções NoFlyZone",
+    "start_url": "/sites/NoFlyZone-SA/SiteAssets/index.html",
+    "scope": "/sites/NoFlyZone-SA/",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#0d6efd",
+    "theme_color": "#003B5C",
     "icons": [
       {
-        "src": "https://raw.githubusercontent.com/filvoch/nfz/refs/heads/main/assets/icons/icon-192x192.png",
+        "src": "/sites/NoFlyZone-SA/SiteAssets/icons/icon-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "https://raw.githubusercontent.com/filvoch/nfz/refs/heads/main/assets/icons/icon-512x512.png",
+        "src": "/sites/NoFlyZone-SA/SiteAssets/icons/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
