@@ -1,22 +1,23 @@
 {
-    "name": "NoFlyZone PWA",
-    "short_name": "NFZ",
-    "description": "Aplicativo de gestão de inspeções NoFlyZone",
-    "start_url": "/sites/NoFlyZone-SA/SiteAssets1/offline.html",
-    "scope": "/sites/NoFlyZone-SA/",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#003B5C",
-    "icons": [
-      {
-        "src": "https://bungeltd.sharepoint.com/sites/NoFlyZone-SA/SiteAssets1/icons/icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "https://bungeltd.sharepoint.com/sites/NoFlyZone-SA/SiteAssets1/icons//icon-512x512.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
-    ]
-  }
+  "name": "NoFlyZone PWA",
+  "short_name": "NFZ",
+  "description": "Aplicativo de gestão de inspeções NoFlyZone",
+ 
+  "start_url": "/sites/NoFlyZone-SA/SiteAssets1/offline.html",
+  "scope": "/sites/NoFlyZone-SA/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#003B5C",
+  "icons": [
+    {
+      "src": "https://bungeltd.sharepoint.com/sites/NoFlyZone-SA/SiteAssets1/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://bungeltd.sharepoint.com/sites/NoFlyZone-SA/SiteAssets1/icons//icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
