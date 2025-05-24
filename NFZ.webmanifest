@@ -2,7 +2,7 @@
     "name": "NoFlyZone PWA",
     "short_name": "NFZ",
     "description": "Aplicativo de gestão de inspeções NoFlyZone",
-    "start_url": "/sites/NoFlyZone-SA/SiteAssets/index.html",
+    "start_url": "/sites/NoFlyZone-SA/SitePages/testee.aspx",
     "scope": "/sites/NoFlyZone-SA/",
     "display": "standalone",
     "background_color": "#ffffff",
