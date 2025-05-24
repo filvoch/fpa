@@ -4,7 +4,7 @@
   "description": "Aplicativo de gestão de inspeções NoFlyZone",
  
   "start_url": "/sites/NoFlyZone-SA/SiteAssets1/offline.html",
-  "scope": "/sites/NoFlyZone-SA/",
+  "scope": "/sites/NoFlyZone-SA/SiteAssets1",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#003B5C",
