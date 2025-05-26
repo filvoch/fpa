@@ -1,7 +1,7 @@
 {
     "name": "NoFlyZone SA",
-    "short_name": "Painel NoFlyZone SA",
-    "start_url": "https://bungeltd.sharepoint.com/sites/NoFlyZone-SA/SitePages/testee.aspx",  
+    "short_name": "NoFlyZone SA",
+    "start_url": "https://bungeltd.sharepoint.com/sites/NoFlyZone-SA/SitePages/NoFlyZone.aspx",  
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#0d6efd",
