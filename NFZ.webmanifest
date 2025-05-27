@@ -4,7 +4,7 @@
     "start_url": "https://bungeltd.sharepoint.com/sites/NoFlyZone-SA/SitePages/NoFlyZone.aspx",  
     "display": "standalone",
     "background_color": "#0f0f0fa5",
-    "theme_color": "#0d6efd",
+    "theme_color": "##0f0f0fa5",
     "icons": [
       {
         "src": "https://raw.githubusercontent.com/filvoch/nfz/refs/heads/main/assets/icons/icon-192x192.png",
